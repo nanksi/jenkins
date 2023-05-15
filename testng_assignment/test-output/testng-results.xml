@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T14:44:29 IST" name="Suite" finished-at="2023-05-15T14:45:35 IST" duration-ms="65750">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T14:44:29 IST" name="Test" finished-at="2023-05-15T14:45:35 IST" duration-ms="65750">
+      <class name="testng_assignment.herokuappTestng">
+        <test-method is-config="true" signature="openherokuapp()[pri:0, instance:testng_assignment.herokuappTestng@158da8e]" started-at="2023-05-15T14:44:29 IST" name="openherokuapp" finished-at="2023-05-15T14:45:13 IST" duration-ms="44127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openherokuapp -->
+        <test-method signature="multipleWindows()[pri:1, instance:testng_assignment.herokuappTestng@158da8e]" started-at="2023-05-15T14:45:13 IST" name="multipleWindows" finished-at="2023-05-15T14:45:20 IST" duration-ms="7093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleWindows -->
+        <test-method signature="multipleFrames()[pri:2, instance:testng_assignment.herokuappTestng@158da8e]" started-at="2023-05-15T14:45:20 IST" name="multipleFrames" finished-at="2023-05-15T14:45:22 IST" duration-ms="2196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleFrames -->
+        <test-method signature="dragAndDropAction()[pri:3, instance:testng_assignment.herokuappTestng@158da8e]" started-at="2023-05-15T14:45:22 IST" name="dragAndDropAction" finished-at="2023-05-15T14:45:31 IST" duration-ms="8877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDropAction -->
+        <test-method signature="mouseHover()[pri:4, instance:testng_assignment.herokuappTestng@158da8e]" started-at="2023-05-15T14:45:31 IST" name="mouseHover" finished-at="2023-05-15T14:45:35 IST" duration-ms="3404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHover -->
+      </class> <!-- testng_assignment.herokuappTestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
